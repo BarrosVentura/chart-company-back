@@ -1,0 +1,24 @@
+{
+  "name": "chart-company-back",
+  "version": "1.0.0",
+  "description": "back-end of the chart company app",
+  "main": "App.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BarrosVentura/chart-company-back.git"
+  },
+  "author": "Adson Ventura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BarrosVentura/chart-company-back/issues"
+  },
+  "homepage": "https://github.com/BarrosVentura/chart-company-back#readme"
+}
